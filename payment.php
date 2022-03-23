@@ -270,8 +270,9 @@ if(!empty($r_amount) && ($c_amount!="") && ($refid!="") && ($date!=""))
   
    
     <script src="js/advanced-form-components.js"></script>
-	
+	Hi This is Rangnath Code .Please Consider it on your way
   </body>
+  
 </html>
 
 
